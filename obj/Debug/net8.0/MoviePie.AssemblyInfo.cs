@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoviePie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c559a3dd25968551afb3e9d19f7e6b1da4bd8eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f00cefe9575944528194b814d164dac6a834f77")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoviePie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoviePie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
